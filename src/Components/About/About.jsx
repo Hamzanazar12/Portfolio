@@ -42,7 +42,7 @@ const About = () => {
 
           </div>
           <p>
-            I am a Fresh Graduate and have completed Software Engineering from comsats University. My is in web Development and have done internship as a React Developer and also working as a free lancer in front end development and have done several frontend projects and looking for some opportunity to start my career.
+            I am a Fresh Graduate and have completed Software Engineering from comsats University. My expertise is in web Development. I have done internship as a React Developer in Fauji Towers and working as a free lancer in front end development.I have done several frontend projects and looking for some opportunity to start my career.
             </p>
             <div className='button'>
             <a href='#contact_me' className='btn btn-primary'>Contact Me</a>
