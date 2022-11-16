@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.0f434a39.css",
-    "main.js": "/portfolio/static/js/main.4ac88ad1.js",
-    "static/js/787.729255d5.chunk.js": "/portfolio/static/js/787.729255d5.chunk.js",
-    "static/media/cv.pdf": "/portfolio/static/media/cv.de7638e8d59d22b43aa1.pdf",
-    "static/media/33.png": "/portfolio/static/media/33.7dc6e3db8ed2acd3eeef.png",
-    "static/media/5.png": "/portfolio/static/media/5.703c28531b21b0b0da78.png",
-    "static/media/7.png": "/portfolio/static/media/7.925e4490ce163233bc6c.png",
-    "static/media/1.png": "/portfolio/static/media/1.bb8a80dba137f171de3c.png",
-    "static/media/3.png": "/portfolio/static/media/3.70845a7bd4cbff04961d.png",
-    "static/media/2.png": "/portfolio/static/media/2.6529f4881bf96d788824.png",
-    "static/media/2.jpg": "/portfolio/static/media/2.797b3b895226724b5e1f.jpg",
-    "static/media/4.png": "/portfolio/static/media/4.de849d6bdaeaa493f9d1.png",
-    "static/media/6.png": "/portfolio/static/media/6.e817abef271e41f00e11.png",
-    "static/media/Gumela-Regular.otf": "/portfolio/static/media/Gumela-Regular.0ae83c6988a536716eb4.otf",
-    "index.html": "/portfolio/index.html",
-    "main.0f434a39.css.map": "/portfolio/static/css/main.0f434a39.css.map",
-    "main.4ac88ad1.js.map": "/portfolio/static/js/main.4ac88ad1.js.map",
-    "787.729255d5.chunk.js.map": "/portfolio/static/js/787.729255d5.chunk.js.map"
+    "main.css": "/new-portfolio/static/css/main.61d13b59.css",
+    "main.js": "/new-portfolio/static/js/main.2d242e4e.js",
+    "static/js/787.729255d5.chunk.js": "/new-portfolio/static/js/787.729255d5.chunk.js",
+    "static/media/cv.pdf": "/new-portfolio/static/media/cv.de7638e8d59d22b43aa1.pdf",
+    "static/media/33.png": "/new-portfolio/static/media/33.7dc6e3db8ed2acd3eeef.png",
+    "static/media/5.png": "/new-portfolio/static/media/5.703c28531b21b0b0da78.png",
+    "static/media/7.png": "/new-portfolio/static/media/7.925e4490ce163233bc6c.png",
+    "static/media/1.png": "/new-portfolio/static/media/1.bb8a80dba137f171de3c.png",
+    "static/media/3.png": "/new-portfolio/static/media/3.70845a7bd4cbff04961d.png",
+    "static/media/2.png": "/new-portfolio/static/media/2.6529f4881bf96d788824.png",
+    "static/media/2.jpg": "/new-portfolio/static/media/2.797b3b895226724b5e1f.jpg",
+    "static/media/4.png": "/new-portfolio/static/media/4.de849d6bdaeaa493f9d1.png",
+    "static/media/6.png": "/new-portfolio/static/media/6.e817abef271e41f00e11.png",
+    "static/media/Gumela-Regular.otf": "/new-portfolio/static/media/Gumela-Regular.0ae83c6988a536716eb4.otf",
+    "index.html": "/new-portfolio/index.html",
+    "main.61d13b59.css.map": "/new-portfolio/static/css/main.61d13b59.css.map",
+    "main.2d242e4e.js.map": "/new-portfolio/static/js/main.2d242e4e.js.map",
+    "787.729255d5.chunk.js.map": "/new-portfolio/static/js/787.729255d5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0f434a39.css",
-    "static/js/main.4ac88ad1.js"
+    "static/css/main.61d13b59.css",
+    "static/js/main.2d242e4e.js"
   ]
 }
