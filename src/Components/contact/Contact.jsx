@@ -50,7 +50,7 @@ const Contact = () => {
             <h4>
               Contact Number
             </h4>
-            <h5>0315-5752096</h5>
+            <h5>03155752096</h5>
             <a href='https://wa.me/03155752096'>Contact Me</a>
 
           </article>
