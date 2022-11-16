@@ -1,5 +1,5 @@
     #contact_me{
-        height: 76rem;
+        height: 60rem;
     }
     .container.contact__container{
         width: 58%;
@@ -55,6 +55,9 @@ input,textarea{
 
     
     
+    }
+    #contact_me{
+        height: 76rem;
     }
 
    
