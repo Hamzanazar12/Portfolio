@@ -35,4 +35,13 @@
     border-radius: 19px;
   }
   
+  @media screen and (max-width: 600px) {
+    .portfolio{
+      width: 107%;
+      overflow: hidden;
+    }
+
+
+
+  }
   
